@@ -1,0 +1,21 @@
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:cpp-toolbox/scripts.git
+[submodule "src/input/window"]
+	path = src/input/window
+	url = git@github.com:cpp-toolbox/window.git
+[submodule "src/utility/fixed_frequency_loop"]
+	path = src/utility/fixed_frequency_loop
+	url = git@github.com:cpp-toolbox/fixed_frequency_loop.git
+[submodule "src/utility/logger"]
+	path = src/utility/logger
+	url = git@github.com:cpp-toolbox/logger.git
+[submodule "src/utility/stopwatch"]
+	path = src/utility/stopwatch
+	url = git@github.com:cpp-toolbox/stopwatch.git
+[submodule "src/utility/math_utils"]
+	path = src/utility/math_utils
+	url = git@github.com:cpp-toolbox/math_utils.git
+[submodule "src/utility/circular_vector"]
+	path = src/utility/circular_vector
+	url = git@github.com:cpp-toolbox/circular_vector.git
